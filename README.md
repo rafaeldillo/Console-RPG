@@ -1,6 +1,8 @@
 ## Description
 
-This is a basic Console RPG game developed in Java, without using objects or classes
+This is a basic console RPG game developed in Java, designed without the use of objects or classes
+
+As mentioned, this game is built for the console and features ASCII art for the character and enemies. It incorporates various mechanics such as attacking and defending, with the success of these actions determined by a roll of a 20-sided die, similar to Dungeons & Dragons. Additionally, the game includes a leveling-up system to enhance the player's progression
 
 ## AUTHOR  
 **Rafael Gómez Quintero**
