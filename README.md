@@ -13,7 +13,8 @@ As mentioned, this game is built for the console and features ASCII art for the 
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=orange&logo=java&logoColor=white&style=for-the-badge)
 
 ## Installation  
-The .java file can be run in the console using the command "java filename", which will create a .class file. This file can then be executed with the "javac filename" command  
+The .java file can be run in the console using the command "java filename", which will create a .class file. This file can then be executed with the "javac filename" command
+
 The .rar file is a compressed version of the Eclipse project
 
 ## Contact  
